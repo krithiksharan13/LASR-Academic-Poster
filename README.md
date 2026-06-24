@@ -118,4 +118,5 @@ Thanks to the LASR 2026 Organising Committee, Dr Luisa Cutillo, Dr Sofya Titaren
 
 ## Author
 
-MSc Student, School of Mathematics, University of Leeds
+Krithik Sharan Suresh Alagianayagi,
+MSc Data Science and Analytics, School of Mathematics, University of Leeds
