@@ -15,8 +15,7 @@ The central idea is simple: most football forecasters report a single predicted 
 | File | Description |
 |------|-------------|
 | `WorldCup2026_Poster_Visuals.ipynb` | Full Google Colab notebook. Downloads data, fits the model, runs simulations, generates all poster charts, and finishes with a dedicated Argentina win probability estimate |
-| `worldcup_poster_visuals.py` | Same pipeline as a standalone Python script |
-| `WorldCup2026_Poster.pptx` | Final poster, PowerPoint format |
+| `Poster.pptx` | Final poster, PowerPoint format |
 
 ## Dataset
 
